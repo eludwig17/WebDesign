@@ -48,8 +48,8 @@
 .main-nav{
     padding-top: 15px;
     padding-bottom: 15px;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
 }
 .main-nav a:hover{
     color: dodgerblue;
