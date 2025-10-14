@@ -4,3 +4,13 @@
     border-radius: 50%;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
 }
+#bio-par{
+    text-align: center;
+    font-family: "Noto Serif", serif;
+    font-size: 15px
+
+}
+#bio-par::first-line{
+    font-weight: bold;
+
+}
