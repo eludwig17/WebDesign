@@ -56,6 +56,36 @@
     border-radius: 5px;
 }
 
+.projects-nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px
+}
+.projects-nav li{
+    display: inline;
+    font-family: "Instrument Serif", serif;
+    font-size: 16px
+}
+.projects-nav li a{
+    text-align: center;
+}
+.projects-nav{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-top: 1px dotted black;
+    border-bottom: 1px dotted black;
+}
+.projects-nav a:hover{
+    color: dodgerblue;
+    border-radius: 5px;
+}
+.projects{
+    position: fixed;
+    width: 100%;
+}
 
 footer{
     text-align: center;
