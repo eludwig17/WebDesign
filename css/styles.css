@@ -264,3 +264,39 @@ textarea {
         padding: 10px;
     }
 }
+@media screen and (max-width: 768px){
+    .main-header{
+        font-size: 3rem;
+    }
+    .tagline{
+        font-size: 1.2rem;
+    }
+
+    #bio-par{
+        font-size: 1.5rem;
+    }
+
+    .profile-picture{
+        width: 250px;
+    }
+    .contact-form{
+        padding: 2rem;
+    }
+    .main-nav ul, .projects-nav ul{
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+    .main-nav li, .projects-nav li{
+        font-size: 25px
+    }
+    .projects{
+        position: relative;
+    }
+    .portfolio-grid{
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .portfolio-item{
+        padding: 10px;
+    }
+}
