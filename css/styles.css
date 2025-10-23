@@ -230,8 +230,9 @@ textarea {
 
 @media screen and (max-width: 600px){
     .main-header{
-        font-size: 1.5rem;
+        font-size: 5rem;
     }
+
     .profile-picture{
         width: 150px;
     }
@@ -243,6 +244,6 @@ textarea {
         flex-wrap: wrap;
     }
     .main-nav li, .projects-nav li{
-        font-size: 14px
+        font-size: 25px
     }
 }
