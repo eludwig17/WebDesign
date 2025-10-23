@@ -230,14 +230,14 @@ textarea {
 
 @media screen and (max-width: 600px){
     .main-header{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .tagline{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     #bio-par{
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
 
     .profile-picture{
@@ -266,14 +266,14 @@ textarea {
 }
 @media screen and (max-width: 768px){
     .main-header{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .tagline{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 
     #bio-par{
-        font-size: 1.1rem;
+        font-size: 0.8rem;
     }
 
     .profile-picture{
