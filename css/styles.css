@@ -246,6 +246,9 @@ textarea {
     .main-nav li, .projects-nav li{
         font-size: 25px
     }
+    .projects{
+        position: relative;
+    }
     .portfolio-grid{
         grid-template-columns: 1fr;
         gap: 20px;
