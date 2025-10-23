@@ -246,4 +246,11 @@ textarea {
     .main-nav li, .projects-nav li{
         font-size: 25px
     }
+    .portfolio-grid{
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .portfolio-item{
+        padding: 10px;
+    }
 }
